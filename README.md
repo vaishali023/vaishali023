@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Vaishali 🌟
 
-![Welcome](https://giphy.com/gifs/code-ko7twHhomhk8E)
+![Welcome](https://media.giphy.com/media/ko7twHhomhk8E/giphy.gif)
 
 Welcome to my GitHub! I'm a passionate **Full Stack Engineer** with over 2 years of experience in building decentralized applications (dApps), smart contracts, and scalable web platforms. 🚀
 
