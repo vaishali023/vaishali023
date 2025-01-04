@@ -38,7 +38,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Engineer** with over 2 years
     
 - ⚡ Fun fact:
   -  I started my crypto journey a year ago! 🎉  
-  - 🌿 **Personal Passion** :  When I’m not coding, you’ll find me exploring nature, creating art, or immersing myself in anything creative.
+  - 🌿 When I’m not coding, you’ll find me exploring nature, creating art, or immersing myself in anything creative.
   
 
 > **"The best way to predict the future is to invent it." – Alan Kay**  
