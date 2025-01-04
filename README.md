@@ -16,6 +16,10 @@ Welcome to my GitHub! I'm a passionate **Full Stack Engineer** with over 2 years
 
 ### 📈 **My Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishali023&show_icons=true&theme=radical)
+
+🔥 **Longest Streak**:  
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishali023e&theme=radical)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali023&layout=compact&theme=radical)
 
 - 🌱 I’m currently learning:
@@ -35,4 +39,11 @@ Welcome to my GitHub! I'm a passionate **Full Stack Engineer** with over 2 years
 -   I started my crypto journey a year ago! 🎉  
 - 🌿 **Personal Passion**:  
   When I’m not coding, you’ll find me exploring nature, creating art, or immersing myself in anything creative.
+  
+
+> **"The best way to predict the future is to invent it." – Alan Kay**  
+
+
+  ⭐️ _Feel free to explore my projects and reach out for collaborations!_
+
 
