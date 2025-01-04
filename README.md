@@ -18,7 +18,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Engineer** with over 2 years
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishali023&show_icons=true&theme=radical)
 
 🔥 **Longest Streak**:  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishali023e&theme=radical)
+  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishali023&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali023&layout=compact&theme=radical)
 
