@@ -1,5 +1,7 @@
 # Hi there! 👋 I'm Vaishali 🌟
 
+![Welcome](https://media.giphy.com/media/i4jKn7itdV2Tvjzj6Y/giphy.gif)
+
 Welcome to my GitHub! I'm a passionate **Full Stack Engineer** with over 2 years of experience in building decentralized applications (dApps), smart contracts, and scalable web platforms. 🚀
 
 ## 🛠️ About Me
@@ -17,8 +19,7 @@ Welcome to my GitHub! I'm a passionate **Full Stack Engineer** with over 2 years
 ### 📈 **My Stats**
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=vaishali023&show_icons=true&theme=radical)
 
-🔥 **Longest Streak**:  
-  ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishali023&theme=radical)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=vaishali023&theme=radical)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vaishali023&layout=compact&theme=radical)
 
